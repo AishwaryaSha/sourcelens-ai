@@ -1,6 +1,8 @@
 # SourceLens AI
 
-SourceLens AI is a placement-focused multi-agent research assistant. Phase 1 implements a clean local-first research workflow using Streamlit, LangGraph, free public search APIs, and Ollama.
+SourceLens AI is a local-first multi-agent research assistant that converts a user query into a structured, citation-backed research report.
+
+Built using LangGraph, Ollama, Wikipedia, OpenAlex, and Streamlit, the system coordinates specialized agents to plan research tasks, retrieve evidence, synthesize findings, and generate readable reports.
 
 ## Phase 1 Scope
 
